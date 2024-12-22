@@ -1,0 +1,92 @@
+[
+    {
+        "event_type": "created",
+        "path": "/home/ubuntu/bsm/test/test1.txt",
+        "timestamp": "2024-12-22T14:10:33.849658"
+    },
+    {
+        "event_type": "opened",
+        "path": "/home/ubuntu/bsm/test/test1.txt",
+        "timestamp": "2024-12-22T14:10:33.850063"
+    },
+    {
+        "event_type": "modified",
+        "path": "/home/ubuntu/bsm/test/test1.txt",
+        "timestamp": "2024-12-22T14:10:33.850361"
+    },
+    {
+        "event_type": "closed",
+        "path": "/home/ubuntu/bsm/test/test1.txt",
+        "timestamp": "2024-12-22T14:10:33.850962"
+    },
+    {
+        "event_type": "opened",
+        "path": "/home/ubuntu/bsm/test/test1.txt",
+        "timestamp": "2024-12-22T14:10:33.851226"
+    },
+    {
+        "event_type": "modified",
+        "path": "/home/ubuntu/bsm/test/test1.txt",
+        "timestamp": "2024-12-22T14:10:33.851496"
+    },
+    {
+        "event_type": "closed",
+        "path": "/home/ubuntu/bsm/test/test1.txt",
+        "timestamp": "2024-12-22T14:10:33.851813"
+    },
+    {
+        "event_type": "deleted",
+        "path": "/home/ubuntu/bsm/test/test1.txt",
+        "timestamp": "2024-12-22T14:10:33.852675"
+    },
+    {
+        "event_type": "created",
+        "path": "/home/ubuntu/bsm/test/test2.txt",
+        "timestamp": "2024-12-22T14:15:17.540201"
+    },
+    {
+        "event_type": "opened",
+        "path": "/home/ubuntu/bsm/test/test2.txt",
+        "timestamp": "2024-12-22T14:15:17.541340"
+    },
+    {
+        "event_type": "modified",
+        "path": "/home/ubuntu/bsm/test/test2.txt",
+        "timestamp": "2024-12-22T14:15:17.542155"
+    },
+    {
+        "event_type": "closed",
+        "path": "/home/ubuntu/bsm/test/test2.txt",
+        "timestamp": "2024-12-22T14:15:17.542639"
+    },
+    {
+        "event_type": "created",
+        "path": "/home/ubuntu/bsm/test/test1.txt",
+        "timestamp": "2024-12-22T14:16:26.982454"
+    },
+    {
+        "event_type": "opened",
+        "path": "/home/ubuntu/bsm/test/test1.txt",
+        "timestamp": "2024-12-22T14:16:26.983325"
+    },
+    {
+        "event_type": "modified",
+        "path": "/home/ubuntu/bsm/test/test1.txt",
+        "timestamp": "2024-12-22T14:16:26.984143"
+    },
+    {
+        "event_type": "closed",
+        "path": "/home/ubuntu/bsm/test/test1.txt",
+        "timestamp": "2024-12-22T14:16:26.984443"
+    },
+    {
+        "event_type": "deleted",
+        "path": "/home/ubuntu/bsm/test/test2.txt",
+        "timestamp": "2024-12-22T14:16:39.367140"
+    },
+    {
+        "event_type": "deleted",
+        "path": "/home/ubuntu/bsm/test/test1.txt",
+        "timestamp": "2024-12-22T15:29:30.209097"
+    }
+]
